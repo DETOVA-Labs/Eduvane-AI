@@ -1,0 +1,7 @@
+{
+  "name": "Eduvane AI (Revolution)",
+  "description": "Active system foundation and long-term intelligence architecture of Eduvane AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
